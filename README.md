@@ -1,3 +1,4 @@
+<p align="justify">
 # Star-Wars-BB9
 Srishti 2020
 
@@ -74,10 +75,10 @@ Srishti 2020
 * Use of GPS instead, to increase movement precision and to reach their destination.    
 
 ## Team Members
-* Kritin Agrawal
+* <a href="https://github.com/Kritin02/">Kritin Agrawal</a>
 * Kush Bansal
 * Ruthik Jadhav
-* Sachin Bansal
+* <a href="https://github.com/sachin-ag">Sachin Agrawal</a>
 * Vaibhav aggarwal 
 
 ## Mentors
@@ -89,3 +90,4 @@ Srishti 2020
 * Mechanism reference-https://howbb8works.com/
 * Pyimagesearch - https://pyimagesearch.com/
 * Arduino - https://www.arduino.cc/
+</p>
