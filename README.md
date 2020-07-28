@@ -6,9 +6,6 @@ Srishti 2020
   <img width="450" height="550" src="https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png/revision/latest/scale-to-width-down/500?cb=20161108050455.jpeg">
 </p>
 
-## Overview
-Every year Models and Robotics Section (MARS) IIT ROORKEE organises annual technical fest “SRISHTI”, especially for freshers, where they can sharpen their technical and entrepreneurial skills. Group of few diligent members are assigned to certain projects within a few months, under the mentorship of intuitive MARS members. We got the window of opportunity to be the part of this technical fest where we came out of the idea of building swarm robots , which coordinate among themselves to form various shapes which includes square, triangle, some alphabets and numbers etc.
-
 ## Abstract
 The droid should replicate BB-8 from the Star Wars franchise complete with a rotating body but a stationary head.The movement of the droid can be controlled by a companion app. The body can rotate freely and can be moved in all direction freely using the app.The head is established by using strong Neodymium magnets and ball casters.* 
 
@@ -38,19 +35,8 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 * 2 X 60rpm DC motors
 * 2 X 12V Li-polymer Batteries
 * Jumpers
-## Working and Flowchart
 
-* The bot is controlled through a companion app using Bluetooth (A Bluetooth module is inside the bot).
-* The companion app sends characters via Bluetooth every time we press a button.
-* The Bluetooth module receives the data while the Arduino interprets and processes these data.
-*	The Arduino sends signals to the Motor Driver shield to give a go signal for the switching of the motors.
-*	The movements of the droid are controlled by these signals.
-*	Casters are connected to wooden board in lower half of the bot where all the machinery are present.
-*	A heavy weight rod is connected under lower half of the board so that it does not move away from stable position.
-*	For the movement of head, a rod connecting the lower board is connected to small wooden board.
-*	Neodymium magnets are attached to its upper surface and the lower surface on head.
-*	The head of the bot move alike as the upper board due to magnetic levitation.
-
+## Flowchart
 <img src="https://i.imgur.com/RjfrX5S.png">
 
 ## Machenical Aspect of the Design
