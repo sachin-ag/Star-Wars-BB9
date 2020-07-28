@@ -37,6 +37,17 @@ Srishti 2020
 * Jumpers
 ## Working and Flowchart
 
+* The bot is controlled through a companion app using Bluetooth (A Bluetooth module is inside the bot).
+* The companion app sends characters via Bluetooth every time we press a button.
+* The Bluetooth module receives the data while the Arduino interprets and processes these data.
+*	The Arduino sends signals to the Motor Driver shield to give a go signal for the switching of the motors.
+*	The movements of the droid are controlled by these signals.
+*	Casters are connected to wooden board in lower half of the bot where all the machinery are present.
+*	A heavy weight rod is connected under lower half of the board so that it does not move away from stable position.
+*	For the movement of head, a rod connecting the lower board is connected to small wooden board.
+*	Neodymium magnets are attached to its upper surface and the lower surface on head.
+*	The head of the bot move alike as the upper board due to magnetic levitation.
+
 <img src="https://i.imgur.com/RjfrX5S.png">
 
 ## Machenical Aspect of the Design
@@ -44,17 +55,6 @@ Srishti 2020
 ## Electronics Aspect of the Design
 
 ## Electrical Connections
-
-•	The bot is controlled through a companion app using Bluetooth (A Bluetooth module is inside the bot).
-•	The companion app sends characters via Bluetooth every time we press a button.
-•	The Bluetooth module receives the data while the Arduino interprets and processes these data.
-•	The Arduino sends signals to the Motor Driver shield to give a go signal for the switching of the motors.
-•	The movements of the droid are controlled by these signals.
-•	Casters are connected to wooden board in lower half of the bot where all the machinery are present.
-•	A heavy weight rod is connected under lower half of the board so that it does not move away from stable position.
-•	For the movement of head, a rod connecting the lower board is connected to small wooden board.
-•	Neodymium magnets are attached to its upper surface and the lower surface on head.
-•	The head of the bot move alike as the upper board due to magnetic levitation.
 
 <img src="https://i.ytimg.com/vi/Tiz3pcnw8FE/maxresdefault.jpg">
 
