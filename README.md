@@ -26,7 +26,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 |       Plywood 1      |                  Dia-24cm, t=0.5cm                  |     8    |
 |       Plywood 2      |                  Dia-11.5cm,t-0.5cm                 |     4    |
 |      Globe           |                      Dia- 30cm                      |     1    |  
-|      Pipe            |                  Dia-2cm,L-13.71                    |     1    |
+|      Pipe            |                  Dia-2cm,L-7                    |     1    |
 |      Wheels          |                        Dia-7.2cm                    |     2    |
 
 ### Electronics
