@@ -48,18 +48,25 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 <img src="https://i.imgur.com/5NZ9BF9.png">
 <br>
 ### The Inner Mechanism:
+
 #### Plywood:
 Two plywood downward and upward having dimensions 24cm*0.5cm and 11.5cm*0.5cm were used respectively. The downward plywood was used to mount Motor, battery, motor drivers, arduino and pipe. The upper plywood was used mount magnets.
+
 #### Pipes:
 A steel pipe having diameter 2cm and length 7cm was used in order to connect downward and upward plywood. It was connected to plywood with the help of l-brackets having standard size.
+
 ### Outer Surface:
 The above picture denotes the assembled part of inner mechanism and outer surface. As the BB9e Droid is spherical in shape we chose a globe of diameter 30 cm. It was made up of ABS plastic which was easy to handle.
+
 ### Head:
 The head was made via a 3D printer using a CAD model as shown above. It had a platform for placing magnets, castors and camera.
+
 ### Castors:
 Castors acted have a point of contact between sphere and the head. We used small size castors and place them conferring to CAD design.
+
 ### Wheels:
 2 Wheels of diameter 7.02cm were used. They acted as a point of contact between the outer surface and the head.
+
 ### Magnets:
 The imperative task is to hold the head over the outer surface. The job was done by 18 strong neodymium magnets having diameter 2cm each. The head consisted of 6 magnets in a set 3 and the upper plywood consisted of 12 magnets in a set of 3. The strong magnetic force between them helped to hold the head over the outer surface.
 
