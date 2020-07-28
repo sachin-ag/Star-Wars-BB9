@@ -41,7 +41,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 
 ## Machenical Aspect of the Design
 
-<img src="hhttps://i.imgur.com/qcsFnyt.jpg">
+<img src="https://i.imgur.com/qcsFnyt.jpg">
 <br>
 <img src="https://i.imgur.com/UicXnEk.jpg">
 
