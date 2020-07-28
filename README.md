@@ -6,12 +6,15 @@ Srishti 2020
   <img width="450" height="550" src="https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png/revision/latest/scale-to-width-down/500?cb=20161108050455.jpeg">
 </p>
 
+## Overview
+Every year Models and Robotics Section (MARS) IIT ROORKEE organises annual technical fest “SRISHTI”, especially for freshers, where they can sharpen their technical and entrepreneurial skills. Group of few diligent members are assigned to certain projects within a few months, under the mentorship of intuitive MARS members. We got the window of opportunity to be the part of this technical fest where we came out of the idea of building swarm robots , which coordinate among themselves to form various shapes which includes square, triangle, some alphabets and numbers etc.
+
 ## Abstract
-*The droid should replicate BB-8 from the Star Wars franchise complete with a rotating body but a stationary head.The movement of the droid can be controlled by a companion app. The body can rotate freely and can be moved in all direction freely using the app.The head is established by using strong Neodymium magnets and ball casters.* 
+The droid should replicate BB-8 from the Star Wars franchise complete with a rotating body but a stationary head.The movement of the droid can be controlled by a companion app. The body can rotate freely and can be moved in all direction freely using the app.The head is established by using strong Neodymium magnets and ball casters.* 
 
 
 ## Motivation
-*After watching the BB-8 from Star Wars, we were interested in its working and mechanism. As the newbies, out of curiosity we choose to work on the same.*
+After watching the BB-8 from Star Wars, we were interested in its working and mechanism. As the newbies, out of curiosity we choose to work on the same.*
 
 ## Components Used
 #### Mechanical:
@@ -78,9 +81,11 @@ Srishti 2020
 | Total                    |          |               |  Rs.8263/- |
 
 ## Applications
-*Potential applications of BB9 are many. To list the few:*
+Potential applications of BB9 are many. To list the few:*
 * Could be used to guide people along the desired path or in a maze. 
 * BB9 can be used in to read number plate of moving vehicles.
+*	The bot is made to move silently so that it can be used in surveillance.
+*	The droid can also be used to record, store, and transmit messages in the form of holograms.
 
 ## Limitations
 * Delay in complex movements during motion.
