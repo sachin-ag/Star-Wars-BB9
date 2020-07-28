@@ -41,7 +41,9 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 
 ## Machenical Aspect of the Design
 
-<img src="https://web.whatsapp.com/529e0680-4538-4a82-827d-e31e4525b8dd">
+<img src="hhttps://i.imgur.com/qcsFnyt.jpg">
+<br>
+<img src="https://i.imgur.com/UicXnEk.jpg">
 
 ## Electronics Aspect of the Design
 
