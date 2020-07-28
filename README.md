@@ -47,6 +47,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 <br>
 <img src="https://i.imgur.com/5NZ9BF9.png">
 <br>
+
 ### The Inner Mechanism:
 
 #### Plywood:
