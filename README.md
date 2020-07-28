@@ -29,7 +29,7 @@ Srishti 2020
 |      Pipe            |                  Dia-2cm,L-13.71                    |     1    |
 |      Wheels          |                        Dia-7.2cm                    |     2    |
 
-#### electronics
+#### Electronics
 * 1 X Arduino Uno
 * 3 X L298(Motor Driver)
 * 2 X 60rpm DC motors
