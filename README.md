@@ -83,7 +83,7 @@ Srishti 2020
 
 ## Mentors
 * <a href="https://github.com/shubham491981/">Shubham Goyal</a> 
-* Simran Bajolia
+* <a href="https://github.com/Simran-A1">Simran Bajoliya</a>
 
 ## References
 * OpenCV Python Tutorial For Beginners - https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
