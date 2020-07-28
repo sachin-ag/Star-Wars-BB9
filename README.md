@@ -35,6 +35,9 @@ Srishti 2020
 * 2 X 60rpm DC motors
 * 2 X 12V Li-polymer Batteries
 * Jumpers
+## Working and Flowchart
+
+<img src="https://i.imgur.com/RjfrX5S.png">
 
 ## Machenical Aspect of the Design
 
