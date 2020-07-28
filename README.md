@@ -44,10 +44,37 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 <img src="https://i.imgur.com/qcsFnyt.jpg">
 <br>
 <img src="https://i.imgur.com/UicXnEk.jpg">
+<br>
+<img src="https://i.imgur.com/5NZ9BF9.png">
+<br>
+### The Inner Mechanism:
+#### Plywood:
+Two plywood downward and upward having dimensions 24cm*0.5cm and 11.5cm*0.5cm were used respectively. The downward plywood was used to mount Motor, battery, motor drivers, arduino and pipe. The upper plywood was used mount magnets.
+#### Pipes:
+A steel pipe having diameter 2cm and length 7cm was used in order to connect downward and upward plywood. It was connected to plywood with the help of l-brackets having standard size.
+### Outer Surface:
+The above picture denotes the assembled part of inner mechanism and outer surface. As the BB9e Droid is spherical in shape we chose a globe of diameter 30 cm. It was made up of ABS plastic which was easy to handle.
+### Head:
+The head was made via a 3D printer using a CAD model as shown above. It had a platform for placing magnets, castors and camera.
+### Castors:
+Castors acted have a point of contact between sphere and the head. We used small size castors and place them conferring to CAD design.
+### Wheels:
+2 Wheels of diameter 7.02cm were used. They acted as a point of contact between the outer surface and the head.
+### Magnets:
+The imperative task is to hold the head over the outer surface. The job was done by 18 strong neodymium magnets having diameter 2cm each. The head consisted of 6 magnets in a set 3 and the upper plywood consisted of 12 magnets in a set of 3. The strong magnetic force between them helped to hold the head over the outer surface.
 
 ## Electronics Aspect of the Design
 
-
+### Micro-Controller
+The microcontroller of the bot is the brain of the bot. Each function and maneuverer of the bot is controlled by a microcontroller. It also helps the bot take decisions and decides the further course of action. We have used Arduino Mega microcontroller board which depends on AT Mega microcontroller. It includes digital input/output pins-54, where 16 pins are analogue inputs, 14 are used like PWM outputs hardware serial ports (UARTs) – 4, a crystal oscillator-16 MHz, an ICSP header, a power jack, a USB connection, as well as a RST button. This board mainly includes everything which  is essential for supporting the microcontroller. So, the power supply of this board can be done by connecting it to a PC using a USB cable, or battery or an AC-DC adapter.
+### Motor Driver
+The DC motors used in the bot are being controlled by the microcontroller through a motor driver. A motor driver enables the Arduino to control over the speed, direction and PWM of the motors. The model of the motor-driver we used is L298. This motor-driver can control 2 DC motors at the same time.
+### Bluetooth Module
+To control our bot, we need to send and receive information wirelessly. To command our bot, we used HC-05 Bluetooth Module which receives our command from our companion app. This module used to connect the microcontroller from our phone from which we are sending commands to work accordingly.
+### DC-motors
+The electric motor operated by direct current (DC) is called DC motor. This is a device that converts DC electrical energy into mechanical energy. This type of motor comes in different rantings of Torques and RPM (maximumRotation per minute) In this project, we used a 60 rpm DC metal geared motor.
+### Mobile App
+We control our bot with a mobile application which is connected to it, through Bluetooth. As you can see, on the 2nd page, at the top right, tap on the Bluetooth logo enables to connect the bot to it and in the middle, four-direction buttons send a unique code to the microcontroller, which interprets and process it and our bot works accordingly.
 
 ### Electrical Connections
 
