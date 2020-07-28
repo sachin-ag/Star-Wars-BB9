@@ -14,7 +14,7 @@ The droid should replicate BB-8 from the Star Wars franchise complete with a rot
 After watching the BB-8 from Star Wars, we were interested in its working and mechanism. As the newbies, out of curiosity we choose to work on the same.*
 
 ## Components Used
-#### Mechanical:
+### Mechanical:
 
 |       Component      |                         Size                        | Quantity |
 |:--------------------:|:---------------------------------------------------:|:--------:|
@@ -29,7 +29,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 |      Pipe            |                  Dia-2cm,L-13.71                    |     1    |
 |      Wheels          |                        Dia-7.2cm                    |     2    |
 
-#### Electronics
+### Electronics
 * 1 X Arduino Uno
 * 3 X L298(Motor Driver)
 * 2 X 60rpm DC motors
@@ -43,7 +43,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 
 ## Electronics Aspect of the Design
 
-## Electrical Connections
+### Electrical Connections
 
 <img src="https://i.ytimg.com/vi/Tiz3pcnw8FE/maxresdefault.jpg">
 
