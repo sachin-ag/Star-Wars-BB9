@@ -82,7 +82,7 @@ Srishti 2020
 * <a href="https://github.com/VaibhavAgg2001">Vaibhav aggarwal</a>
 
 ## Mentors
-* shubham Goyal 
+* <a href="https://github.com/shubham491981/">Shubham Goyal</a> 
 * Simran Bajolia
 
 ## References
