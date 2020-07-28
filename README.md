@@ -77,9 +77,9 @@ Srishti 2020
 ## Team Members
 * <a href="https://github.com/Kritin02/">Kritin Agrawal</a>
 * Kush Bansal
-* <a href="https://github.com/RUTHIK-DROID0909>Ruthik Jadhav</a>
+* <a href="https://github.com/RUTHIK-DROID0909">Ruthik Jadhav</a>
 * <a href="https://github.com/sachin-ag">Sachin Agrawal</a>
-* <a href="https://github.com/VaibhavAgg2001>Vaibhav aggarwal</a>
+* <a href="https://github.com/VaibhavAgg2001">Vaibhav aggarwal</a>
 
 ## Mentors
 * shubham Goyal 
