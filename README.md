@@ -79,7 +79,7 @@ Srishti 2020
 * <a href="https://github.com/kushBansal/">Kush Bansal</a>
 * <a href="https://github.com/RUTHIK-DROID0909">Ruthik Jadhav</a>
 * <a href="https://github.com/sachin-ag">Sachin Agrawal</a>
-* <a href="https://github.com/VaibhavAgg2001">Vaibhav aggarwal</a>
+* <a href="https://github.com/VaibhavAgg2001">Vaibhav Aggarwal</a>
 
 ## Mentors
 * <a href="https://github.com/shubham491981/">Shubham Goyal</a> 
