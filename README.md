@@ -21,11 +21,12 @@ Srishti 2020
 |     Nut and Bolt     |                       4mm dia                       |    20    |
 |     L - Brackets     |                       Standard                      |     2    |
 |     Motor Mount      |                      Dia-3.6cm                      |     2    |
-|     Castor Wheel     |                        Small                        |     4    |
+|     Castor Wheel     |                        Small                        |     3    |
 |       Plywood 1      |                  Dia-24cm, t=0.5cm                  |     8    |
 |       Plywood 2      |                  Dia-11.5cm,t-0.5cm                 |     4    |
 |      Globe           |                      Dia- 30cm                      |     1    |  
 |      Pipe            |                  Dia-2cm,L-13.71                    |     1    |
+|      Wheels          |                        Dia-7.2cm                    |     2    |
 
 ## Electronics Aspect of the Design
 #### Contents
