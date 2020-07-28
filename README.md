@@ -53,7 +53,7 @@ Srishti 2020
 | Neodymium magnets Steel  |      18  |        25     |        450 |
 | HC05 Bluetooth Module    |      1   |       320     |        320 |   
 | Miscellaneous            |      -   |          -    |        250 |
-| Total                    |          |               |  Rs.7544/- |
+| Total                    |          |               |  Rs.8263/- |
 
 ## Applications
 *Potential applications of BB9 are many. To list the few:*
