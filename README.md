@@ -155,15 +155,15 @@ Potential applications of BB9 are many. To list the few:*
 * Use of GPS instead, to increase movement precision and to reach their destination.    
 
 ## Team Members
-+ <a href="https://github.com/Kritin02/">Kritin Agrawal</a>
-+ <a href="https://github.com/kushBansal/">Kush Bansal</a>
-+ <a href="https://github.com/RUTHIK-DROID0909">Ruthik Jadhav</a>
-+ <a href="https://github.com/sachin-ag">Sachin Agrawal</a>
-+ <a href="https://github.com/VaibhavAgg2001">Vaibhav Aggarwal</a>
+1. <a href="https://github.com/Kritin02/">Kritin Agrawal</a>
+2. <a href="https://github.com/kushBansal/">Kush Bansal</a>
+3. <a href="https://github.com/RUTHIK-DROID0909">Ruthik Jadhav</a>
+4. <a href="https://github.com/sachin-ag">Sachin Agrawal</a>
+5.  <a href="https://github.com/VaibhavAgg2001">Vaibhav Aggarwal</a>
 
 ## Mentors
-+ <a href="https://github.com/shubham491981/">Shubham Goyal</a> 
-+ <a href="https://github.com/Simran-A1">Simran Bajoliya</a>
+1. <a href="https://github.com/shubham491981/">Shubham Goyal</a> 
+2. <a href="https://github.com/Simran-A1">Simran Bajoliya</a>
 
 ## References
 * OpenCV Python Tutorial For Beginners - https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
