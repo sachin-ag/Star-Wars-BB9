@@ -122,7 +122,7 @@ We control our bot with a mobile application which is connected to it, through B
 
 ### Electrical Connections
 
-<img src="https://i.ytimg.com/vi/Tiz3pcnw8FE/maxresdefault.jpg">
+<img src="https://i.imgur.com/KwFAoNY.jpg">
 
 ## Cost Structure
 
