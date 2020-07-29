@@ -17,6 +17,7 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 </p>
 
 ## Components Used
+
 ### Mechanical:
 
 |       Component      |                         Size                        | Quantity |
