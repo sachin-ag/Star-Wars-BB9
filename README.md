@@ -13,7 +13,7 @@ The droid should replicate BB-8 from the Star Wars franchise complete with a rot
 
 ## Motivation
 
-<p align="justify>
+<p align="justify">
 After watching the BB-8 from Star Wars, we were interested in its working and mechanism. As the newbies, out of curiosity we choose to work on the same. 
 </p>
  
