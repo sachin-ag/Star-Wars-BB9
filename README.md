@@ -40,15 +40,13 @@ After watching the BB-8 from Star Wars, we were interested in its working and me
 * Jumpers
 
 ## Flowchart
-<img src="https://i.imgur.com/RjfrX5S.png">
+<img src="https://github.com/Kritin02/Star-Wars-BB9/blob/master/Images%20and%20Videos/Images/Flowchart.png?raw=true">
 
 ## Mechanical of the Design
 
-<img src="https://i.imgur.com/qcsFnyt.jpg">
+<img src="https://github.com/Kritin02/Star-Wars-BB9/blob/master/Images%20and%20Videos/Images/Mechanical%20Aspect%20Overview.png?raw=true">
 <br>
-<img src="https://i.imgur.com/UicXnEk.jpg">
-<br>
-<img src="https://i.imgur.com/5NZ9BF9.png">
+<img src="https://github.com/Kritin02/Star-Wars-BB9/blob/master/Mechanical%20Design/Assemble%20Inside-3.JPG?raw=true">
 <br>
 
 ### The Inner Mechanism:
@@ -122,7 +120,7 @@ We control our bot with a mobile application which is connected to it, through B
 
 ### Electrical Connections
 
-<img src="https://i.imgur.com/KwFAoNY.jpg">
+<img src="https://github.com/Kritin02/Star-Wars-BB9/blob/master/Images%20and%20Videos/Images/Electrical%20Connections.jpg?raw=true">
 
 ## Cost Structure
 
