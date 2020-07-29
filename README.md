@@ -94,29 +94,29 @@ The imperative task is to hold the head over the outer surface. The job was done
 
 <p align="justify">
 The microcontroller of the bot is the brain of the bot. Each function and maneuverer of the bot is controlled by a microcontroller. It also helps the bot take decisions and decides the further course of action. We have used Arduino Mega microcontroller board which depends on AT Mega microcontroller. It includes digital input/output pins-54, where 16 pins are analogue inputs, 14 are used like PWM outputs hardware serial ports (UARTs) – 4, a crystal oscillator-16 MHz, an ICSP header, a power jack, a USB connection, as well as a RST button. This board mainly includes everything which  is essential for supporting the microcontroller. So, the power supply of this board can be done by connecting it to a PC using a USB cable, or battery or an AC-DC adapter.
-  </p>
+</p>
   
 ### Motor Driver
 
-  <p align="justify">
+<p align="justify">
 The DC motors used in the bot are being controlled by the microcontroller through a motor driver. A motor driver enables the Arduino to control over the speed, direction and PWM of the motors. The model of the motor-driver we used is L298. This motor-driver can control 2 DC motors at the same time.
-  </p>
+</p>
   
 ### Bluetooth Module
 
-    <p align="justify">
+<p align="justify">
 To control our bot, we need to send and receive information wirelessly. To command our bot, we used HC-05 Bluetooth Module which receives our command from our companion app. This module used to connect the microcontroller from our phone from which we are sending commands to work accordingly.
 </p>
 
 ### DC-motors
 
-      <p align="justify">
+<p align="justify">
 The electric motor operated by direct current (DC) is called DC motor. This is a device that converts DC electrical energy into mechanical energy. This type of motor comes in different rantings of Torques and RPM (maximumRotation per minute) In this project, we used a 60 rpm DC metal geared motor.
 </p>
 
 ### Mobile App
 
-        <p align="justify">
+<p align="justify">
 We control our bot with a mobile application which is connected to it, through Bluetooth. As you can see, on the 2nd page, at the top right, tap on the Bluetooth logo enables to connect the bot to it and in the middle, four-direction buttons send a unique code to the microcontroller, which interprets and process it and our bot works accordingly.
 </p>
 
