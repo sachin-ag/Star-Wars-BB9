@@ -176,6 +176,6 @@ Potential applications of BB9 are many. To list the few:*
 
 ## References
 * OpenCV Python Tutorial For Beginners - https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
-* Mechanism reference-https://howbb8works.com/
+* Mechanism reference - https://howbb8works.com/
 * Pyimagesearch - https://pyimagesearch.com/
 * Arduino - https://www.arduino.cc/
