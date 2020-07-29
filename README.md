@@ -3,7 +3,7 @@
 Srishti 2020
 
 <p align="center">
-  <img width="450" height="550" src="https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png/revision/latest/scale-to-width-down/500?cb=20161108050455.jpeg">
+  <img width="450" height="550" src="https://github.com/Kritin02/Star-Wars-BB9/blob/master/Images%20and%20Videos/Images/Interior.jpeg?raw=true">
 </p>
 
 ## Abstract
